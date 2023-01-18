@@ -78,7 +78,9 @@ body{
     font-size: 18px;
     font-weight: 400;
 }
-
+.link_button{
+   color: #2F2325;
+}
 .cont_principal_escrito_button:hover{
     background-color: #8E5D52;
     transition-duration: 0.4s;
